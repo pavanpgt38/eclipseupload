@@ -7,5 +7,10 @@ public class Home {
 	{
 		System.out.println("home");
 	}
+	
+	void xx()
+	{
+		System.out.println("");
+	}
 
 }
