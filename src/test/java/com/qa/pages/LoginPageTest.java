@@ -5,7 +5,7 @@ public class LoginPageTest {
 	
 	public void loginpage()
 	{
-		//syso
+		
 	}
 	
 	public void loginset()
@@ -13,4 +13,9 @@ public class LoginPageTest {
 		
 	}
 
+	
+	public void lo()
+	{
+		
+	}
 }
